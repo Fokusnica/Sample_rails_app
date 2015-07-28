@@ -1,0 +1,33 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+
+
+
+ #my_name {
+  color: indigo;
+  }
+
+body{
+    padding: 20px;
+    left: 30%;
+    position: absolute;
+    font-family: Verdana, sans-serif;
+}
+
+.column{
+    margin-bottom:20px;
+    margin-right:20px;
+    display:inline-block;
+    vertical-align: text-top;
+    font-size: 23px;
+    font-family: Verdana, sans-serif;
+
+}
+
+ul {
+    list-style-type: none;
+    line-height: 40px;
+}
